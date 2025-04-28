@@ -12,9 +12,15 @@
 - **Other**: Git, GitHub, GitLab, REST APIs, Object-Oriented Programming
 
 ## 🚀 Featured Projects
-- [Movie Rental Database](https://github.com/melissa0987/movie-rental-database)
-- [Currency Exchange App](https://github.com/melissa0987/currency-exchange-app)
-- [Bank Teller Simulation](https://github.com/melissa0987/bank-teller-simulation)
+- [Movie Rental Database](https://github.com/melissa0987/MovieRentalSystem_db)
+- [Currency Exchange App](https://github.com/melissa0987/exchange-rate) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/exchange-rate/)
+- [Bank Teller Simulation](https://github.com/melissa0987/Bank-Teller-Simulation)
+
+## 📦 Other Projects on GitLab
+- [Record Store Application](https://gitlab.com/melissa_louise/fall2022_project/-/tree/main/project?ref_type=heads)
+- [Monkey Card Game](https://gitlab.com/melissa_louise/winter2022projectmonkeycardgame)
+- [Course List Web App](https://gitlab.com/python_winter2023/Final_Project)
+- [Study Pal App](https://gitlab.com/monica-dimitrova/410project)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/melissa-bangloy023/)
