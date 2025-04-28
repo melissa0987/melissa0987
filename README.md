@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Melissa
 
-<!--
-**melissa0987/melissa0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Software Development student passionate about building practical, real-world applications.
+- 🌱 Currently learning: Full-stack development, cloud deployment, and advanced database management.
+- 🎯 Career goal: Become a full-stack developer and contribute to impactful tech projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Java, Python, SQL, JavaScript, C#
+- **Frameworks**: Flask, Windows Forms
+- **Databases**: MySQL, PostgreSQL
+- **Other**: Git, GitHub, GitLab, REST APIs, Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Movie Rental Database](https://github.com/melissa0987/movie-rental-database)
+- [Currency Exchange App](https://github.com/melissa0987/currency-exchange-app)
+- [Bank Teller Simulation](https://github.com/melissa0987/bank-teller-simulation)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/melissa-bangloy023/)
+- [GitLab](https://gitlab.com/melissa_louise))
+- ✉️ Email: melissabangloy0223@gmail.com
+
+---
+
