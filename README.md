@@ -15,6 +15,7 @@
 - [Movie Rental Database](https://github.com/melissa0987/MovieRentalSystem_db)
 - [Currency Exchange App](https://github.com/melissa0987/exchange-rate) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/exchange-rate/)
 - [Bank Teller Simulation](https://github.com/melissa0987/Bank-Teller-Simulation)
+- [My Cats (A Bootstrap Project)](https://github.com/melissa0987/my-cats-bootstrap) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/my-cats-bootstrap/)
 
 ## 📦 Other Projects on GitLab
 - [Record Store Application](https://gitlab.com/melissa_louise/fall2022_project/-/tree/main/project?ref_type=heads)
