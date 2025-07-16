@@ -29,7 +29,7 @@
 ## 📫 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-bangloy023/)
 - [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melissa_louise)
-- ✉️ Email: melissabangloy0223@gmail.com
+- ✉️ Email: melissabangloy023@gmail.com
 
 ---
 
