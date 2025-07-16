@@ -13,16 +13,18 @@
 
 
 ## 🚀 Featured Projects
-- [Movie Rental Database](https://github.com/melissa0987/MovieRentalSystem_db)
-- [Currency Exchange App](https://github.com/melissa0987/exchange-rate) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/exchange-rate/)
-- [Bank Teller Simulation](https://github.com/melissa0987/Bank-Teller-Simulation)
+- [Competency Manager App](https://github.com/melissa0987/CompetencyManagerApp)
+- [Record Store Management System](https://github.com/melissa0987/RecordStoreManagementSystem)
+- [Music Record Library WebREST Project](https://github.com/melissa0987/MusicRecordLibraryWebRESTProject)
+- [dqueez (A Quiz Platform)](https://github.com/alexkh/dqueez) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://dqueez.com/)
+- [Recipe Manager App](https://github.com/melissa0987/recipeManager)
+- [Exchange-Rate](https://github.com/melissa0987/exchange-rate) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/exchange-rate/)
 - [My Cats (A Bootstrap Project)](https://github.com/melissa0987/my-cats-bootstrap) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/my-cats-bootstrap/)
 
 ## 📦 Other Projects on GitLab
-- [Record Store Application](https://gitlab.com/melissa_louise/fall2022_project/-/tree/main/project?ref_type=heads)
-- [Monkey Card Game](https://gitlab.com/melissa_louise/winter2022projectmonkeycardgame)
-- [Course List Web App](https://gitlab.com/python_winter2023/Final_Project)
 - [Study Pal App](https://gitlab.com/monica-dimitrova/410project)
+- [Monkey Card Game](https://gitlab.com/melissa_louise/winter2022projectmonkeycardgame)
+
 
 ## 📫 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-bangloy023/)
