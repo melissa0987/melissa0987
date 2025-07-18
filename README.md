@@ -25,6 +25,9 @@
 - [Study Pal App](https://gitlab.com/monica-dimitrova/410project)
 - [Monkey Card Game](https://gitlab.com/melissa_louise/winter2022projectmonkeycardgame)
 
+## 🌐 Portfolio
+
+Check out my [personal portfolio website](https://melissa0987.github.io/portfolio/) for more projects and contact info.
 
 ## 📫 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-bangloy023/)
