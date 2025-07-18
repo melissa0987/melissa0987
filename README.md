@@ -15,8 +15,8 @@
 ## 🚀 Featured Projects
 - [Competency Manager App](https://github.com/melissa0987/CompetencyManagerApp)
 - [Record Store Management System](https://github.com/melissa0987/RecordStoreManagementSystem)
-- [Music Record Library WebREST Project](https://github.com/melissa0987/MusicRecordLibraryWebRESTProject)
 - [dqueez (A Quiz Platform)](https://github.com/alexkh/dqueez) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://dqueez.com/)
+- [Music Record Library WebREST Project](https://github.com/melissa0987/MusicRecordLibraryWebRESTProject)
 - [Recipe Manager App](https://github.com/melissa0987/recipeManager)
 - [Exchange-Rate](https://github.com/melissa0987/exchange-rate) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/exchange-rate/)
 - [My Cats (A Bootstrap Project)](https://github.com/melissa0987/my-cats-bootstrap) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://melissa0987.github.io/my-cats-bootstrap/)
