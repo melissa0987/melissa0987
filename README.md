@@ -86,8 +86,8 @@ Smaller projects and experiments:
 ---
 
 ## 🌐 Portfolio
-🔗 **Personal Website:**  
-[https://melissa0987.github.io/portfolio](https://melissa0987.github.io/portfolio)
+🔗 https://melissa0987.github.io/portfolio
+
 ---
 
 ## 📫 Connect with Me 
