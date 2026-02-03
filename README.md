@@ -29,8 +29,6 @@
 ### Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,11 +39,11 @@
 
 ---
 
-## 🚀 Featured Projects (Hiring-Manager Picks)
+## 🚀 Featured Projects
 
 > These projects best represent my skills as a junior software developer.
 
-### ⭐ Competency Manager Web Application
+### Competency Manager Web Application
 **Python | Flask | REST API | Oracle DB | HTML/CSS**
 - Built a backend-focused web application for managing courses and competencies
 - Implemented RESTful APIs and full CRUD functionality
@@ -54,7 +52,7 @@
 
 ---
 
-### ⭐ Music Record Library Web REST Project
+### Music Record Library Web REST Project
 **Java | REST API | SQL**
 - Developed a web-based record management system using REST architecture
 - Designed endpoints for managing music inventory and metadata  
@@ -62,7 +60,7 @@
 
 ---
 
-### ⭐ Record Store Management System
+### Record Store Management System
 **Java | JavaFX | SQL | JUnit**
 - Desktop application for browsing and managing music records
 - Applied object-oriented programming principles and unit testing  
@@ -70,7 +68,7 @@
 
 ---
 
-### 🟡 WhiskerWatch (React Web App)
+### WhiskerWatch (React Web App)
 **React | JavaScript | Web UI**
 - Frontend-focused application built with React
 - Demonstrates modern component-based UI development  
@@ -80,20 +78,18 @@
 
 ## 🧪 Additional Projects
 Smaller projects and experiments:
-- Recipe Manager App (https://github.com/melissa0987/recipeManager)
-- Exchange Rate App (https://melissa0987.github.io/exchange-rate/) (Live Demo)(https://melissa0987.github.io/exchange-rate/)
-- PrintCraft - Custom Print Shop (https://github.com/melissa0987/custom-print-shop)
-- Password Generator (https://github.com/melissa0987/password-generator)
+- [Recipe Manager App ](https://github.com/melissa0987/recipeManager)
+- [Exchange Rate App ](https://melissa0987.github.io/exchange-rate/) [(Live Demo)](https://melissa0987.github.io/exchange-rate/)
+- [PrintCraft - Custom Print Shop](https://github.com/melissa0987/custom-print-shop/)
+- [Password Generator](https://github.com/melissa0987/password-generator/)
 
 ---
 
 ## 🌐 Portfolio
 🔗 **Personal Website:**  
-https://melissa0987.github.io/portfolio (https://melissa0987.github.io/portfolio/)
-
+https://melissa0987.github.io/portfolio
 ---
 
 ## 📫 Connect with Me 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-bangloy023/)
-- [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melissa_louise)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-bangloy023/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melissa_louise)
 - ✉️ Email: melissabangloy023@gmail.com
