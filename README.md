@@ -50,7 +50,7 @@
 - Built a backend-focused web application for managing courses and competencies
 - Implemented RESTful APIs and full CRUD functionality
 - Integrated relational database for persistent data storage  
-🔗 https://github.com/melissa0987/CompetencyManagerApp(https://github.com/melissa0987/CompetencyManagerApp)
+🔗 https://github.com/melissa0987/CompetencyManagerApp
 
 ---
 
@@ -58,7 +58,7 @@
 **Java | REST API | SQL**
 - Developed a web-based record management system using REST architecture
 - Designed endpoints for managing music inventory and metadata  
-🔗 https://github.com/melissa0987/MusicRecordLibraryWebRESTProject (https://github.com/melissa0987/MusicRecordLibraryWebRESTProject)
+🔗 https://github.com/melissa0987/MusicRecordLibraryWebRESTProject
 
 ---
 
@@ -66,7 +66,7 @@
 **Java | JavaFX | SQL | JUnit**
 - Desktop application for browsing and managing music records
 - Applied object-oriented programming principles and unit testing  
-🔗 https://github.com/melissa0987/RecordStoreManagementSystem (https://github.com/melissa0987/RecordStoreManagementSystem)
+🔗 https://github.com/melissa0987/RecordStoreManagementSystem
 
 ---
 
@@ -74,7 +74,7 @@
 **React | JavaScript | Web UI**
 - Frontend-focused application built with React
 - Demonstrates modern component-based UI development  
-🔗 https://github.com/melissa0987/whiskerwatch-react-app (https://github.com/melissa0987/whiskerwatch-react-app)
+🔗 https://github.com/melissa0987/whiskerwatch-react-app
 
 ---
 
