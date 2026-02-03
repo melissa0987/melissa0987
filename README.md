@@ -79,7 +79,7 @@
 ## 🧪 Additional Projects
 Smaller projects and experiments:
 - [Recipe Manager App ](https://github.com/melissa0987/recipeManager)
-- [Exchange Rate App ](https://melissa0987.github.io/exchange-rate/)   [🌐 (Live Demo)](https://melissa0987.github.io/exchange-rate/)
+- [Exchange Rate App ](https://github.com/melissa0987exchange-rate/)   [🌐 (Live Demo)](https://melissa0987.github.io/exchange-rate/)
 - [PrintCraft - Custom Print Shop](https://github.com/melissa0987/custom-print-shop/)
 - [Password Generator](https://github.com/melissa0987/password-generator/)
 
