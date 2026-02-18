@@ -57,14 +57,12 @@
 
 ---
 # 📊 GitHub Stats:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=melissa0987&theme=github-compact&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=melissa0987&theme=github-compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=melissa0987&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=melissa0987&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melissa0987&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=melissa0987&theme=catppuccin_mocha&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
